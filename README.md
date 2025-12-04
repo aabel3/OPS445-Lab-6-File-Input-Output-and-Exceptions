@@ -1,4 +1,4 @@
-# OPS445 Lab 6 – File I/O and Exceptions'
+# OPS445 Lab 6 – File Input & Ouput and Exceptions'
 
 Welcome to OPS445 Lab 6!
 
