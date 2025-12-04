@@ -1,4 +1,7 @@
 #!/usr/bin//env python3
+# OPS445 - Lab 6
+# lab6a.py
+# Author: Avraham Abel
 
 from student import Student
 
